@@ -1,0 +1,101 @@
+Restore Archived Project report for skeleton
+Thu Oct 17 21:46:37 2019
+Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Oct 17 21:46:37 2019 ;
+; Revision Name                   ; skeleton                              ;
+; Top-level Entity Name           ; skeleton                              ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/chenz/Desktop/ECE550Lab3.qar' into the 'C:/Users/chenz/Desktop/datapath/' directory
+Info: Generated report 'skeleton.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/17.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 630 megabytes
+    Info: Processing ended: Thu Oct 17 21:46:37 2019
+    Info: Elapsed time: 00:00:00
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------------------------+
+; Files Restored                   ;
++----------------------------------+
+; File Name                        ;
++----------------------------------+
+; qar_info.json                    ;
+; adder_cs.vhd                     ;
+; adder_rc.vhd                     ;
+; alu.vhd                          ;
+; control.vhd                      ;
+; cpu550-2016fa.qpf                ;
+; decoder5to32.vhd                 ;
+; dmem.vhd                         ;
+; imem.vhd                         ;
+; lcd.vhd                          ;
+; mux.vhd                          ;
+; pll.cmp                          ;
+; pll.ppf                          ;
+; pll.qip                          ;
+; pll.vhd                          ;
+; processor.vhd                    ;
+; ps2.vhd                          ;
+; reg.vhd                          ;
+; reg0_2port.vhd                   ;
+; reg_2port.vhd                    ;
+; regfile.vhd                      ;
+; shifter.vhd                      ;
+; signextended.vhd                 ;
+; skeleton.qsf                     ;
+; skeleton.vhd                     ;
+; skeleton_assignment_defaults.qdf ;
+; test-fibonacci-dmem.hex          ;
+; test-fibonacci-imem.hex          ;
++----------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
